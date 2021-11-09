@@ -46,7 +46,7 @@ class Main{
         else if(pos1 > pos2)
             return("Gana el corredor 1");
         else
-            return("Gana el corredor 2")
+            return("Gana el corredor 2");
     }
 
 }
